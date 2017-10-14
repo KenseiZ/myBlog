@@ -39,3 +39,10 @@ article{
     font-size: 25px;
     line-height: 106px;
 }
+div{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-size:xx-large;
+}
+audio{
+    width:900px;
+}
