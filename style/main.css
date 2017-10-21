@@ -7,8 +7,9 @@ header{
     width: 1000px;
     background-color: dimgrey;
     color: aliceblue;
-    height: 106px;
+    height: auto;
     margin: 0 auto;
+    text-align : center;
 }
 
 main{
