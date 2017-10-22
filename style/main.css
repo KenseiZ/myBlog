@@ -47,3 +47,7 @@ div{
 audio{
     width:900px;
 }
+#Citation{
+    text-align : center;
+    text-decoration : underline;
+}
